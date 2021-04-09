@@ -1,19 +1,17 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Andrew Miracles Blog",
+  "site_description": "A Next.js Starter Blog Page to get things working",
   "site_keywords": [
     {
       "keyword": "Next.js"
     },
-    {
-      "keyword": "Netlify"
-    },
+    "Entrepreneur",
     {
       "keyword": "React"
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@koolamusic",
+  "github_account": "koolamusic"
 }
